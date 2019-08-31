@@ -10,9 +10,6 @@ File: models/stconv_branch.py
  - Contain model with stconv_branch and falcon compressed model.
 Version: 1.0
 
-This software may be used only for research evaluation purposes.
-For other purposes (e.g., commercial), please contact the authors.
-
 """
 
 import torch

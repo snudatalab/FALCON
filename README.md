@@ -111,8 +111,5 @@ FALCON
 - U Kang (ukang@snu.ac.kr)
 - Data Mining Lab. at Seoul National University.
 
-*This software may be used only for research evaluation purposes.*  
-*For other purposes (e.g., commercial), please contact the authors.*
-
-
-
+## License
+Licensed under the Apache License, Version 2.0

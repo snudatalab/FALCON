@@ -12,9 +12,6 @@ File: utils/tucker.py
 
 Version: 1.0
 
-This software may be used only for research evaluation purposes.
-For other purposes (e.g., commercial), please contact the authors.
-
 """
 
 from __future__ import division

@@ -11,9 +11,6 @@ File: models/falcon.py
 
 Version: 1.0
 
-This software may be used only for research evaluation purposes.
-For other purposes (e.g., commercial), please contact the authors.
-
 """
 
 import torch
