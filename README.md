@@ -116,7 +116,7 @@ FALCON
 If you use this code, please cite the following paper.
 
 ```
-@article{DBLP:journals/corr/abs-1909-11321,
+@article{abs-1909-11321,
   author    = {Chun Quan and
                Jun{-}Gi Jang and
                Hyun Dong Lee and
@@ -125,13 +125,7 @@ If you use this code, please cite the following paper.
                {CNN}},
   journal   = {CoRR},
   volume    = {abs/1909.11321},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1909.11321},
-  eprinttype = {arXiv},
-  eprint    = {1909.11321},
-  timestamp = {Fri, 27 Sep 2019 13:04:21 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1909-11321.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  year      = {2019}
 }
 ```
 
