@@ -1,4 +1,4 @@
-FALCON: FAst and Lightweight CONvolution
+Falcon: lightweight and accurate convolution based on depthwise separable convolution (KAIS journal, 2023)
 ===
 
 This package provides implementations of FALCON/FALCONBranch convolution with their corresponding CNN model.
@@ -116,16 +116,13 @@ FALCON
 If you use this code, please cite the following paper.
 
 ```
-@article{abs-1909-11321,
-  author    = {Chun Quan and
-               Jun{-}Gi Jang and
-               Hyun Dong Lee and
-               U Kang},
-  title     = {{FALCON:} Fast and Lightweight Convolution for Compressing and Accelerating
-               {CNN}},
-  journal   = {CoRR},
-  volume    = {abs/1909.11321},
-  year      = {2019}
+@article{jang2023falcon,
+  title={Falcon: lightweight and accurate convolution based on depthwise separable convolution},
+  author={Jang, Jun-Gi and Quan, Chun and Lee, Hyun Dong and Kang, U},
+  journal={Knowledge and Information Systems},
+  pages={1--25},
+  year={2023},
+  publisher={Springer}
 }
 ```
 
